@@ -18,8 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\workstation\source\repos\To_Do_App\To_Do_App
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/workstation/source/repos/To_Do_App/To_Do_App/Views/Home/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/workstation/source/repos/To_Do_App/To_Do_App/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/workstation/source/repos/To_Do_App/To_Do_App/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/workstation/source/repos/To_Do_App/To_Do_App/Views/Home/jj.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxqai5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/workstation/source/repos/To_Do_App/To_Do_App/Views/Home/Privacy.cshtml]
