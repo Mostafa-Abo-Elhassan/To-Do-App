@@ -1,17 +1,6 @@
 # To-Do Application
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-  - [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The To-Do Application is a web-based platform that allows users to manage their tasks efficiently. Users can create, edit, delete, and filter tasks by categories and statuses. The application is built using ASP.NET Core MVC and follows the best practices for web development.
@@ -28,7 +17,10 @@ The To-Do Application is a web-based platform that allows users to manage their 
 - **Backend:** ASP.NET Core MVC
 - **Database:** Entity Framework Core with SQL Server
 - **Tools:** Visual Studio, Git
-
+### Screenshots
+<p align="center"> 1
+  <img src="https://res.cloudinary.com/dfgunzope/image/upload/v1727546551/uc9xmmbukhwvqw5oxnkp.png" alt="Home Page" width="700px"/>
+</p>
 ## Getting Started
 
 ### Installation
